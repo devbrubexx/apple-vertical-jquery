@@ -1,4 +1,4 @@
-des projets en `javascript`
+des tas de projets en `javascript`
 
 ## apple-vertical-jquery (temporaire à supprimer) 
 
